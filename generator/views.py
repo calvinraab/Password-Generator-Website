@@ -36,5 +36,4 @@ def password(request):
 
 
 def about(request):
-    # Request - test
     return render(request, 'generator/about.html')
