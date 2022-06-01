@@ -36,4 +36,5 @@ def password(request):
 
 
 def about(request):
+    # Testing naming change --
     return render(request, 'generator/about.html')
