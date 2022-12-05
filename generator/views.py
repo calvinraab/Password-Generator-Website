@@ -1,4 +1,4 @@
-# Render allows you to pass back a template that turns into an HttpResponce
+# Render allows you to pass back a template that turns into an HttpResponse
 from django.shortcuts import render
 from django.http import HttpResponse
 import random
